@@ -15,6 +15,7 @@ local options = {
     "gosum",
     "gotmpl",
     "gowork",
+    "terraform",
   },
 
   highlight = {
