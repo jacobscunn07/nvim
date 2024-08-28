@@ -16,6 +16,7 @@ local options = {
     "gotmpl",
     "gowork",
     "terraform",
+    "dockerfile",
   },
 
   highlight = {
